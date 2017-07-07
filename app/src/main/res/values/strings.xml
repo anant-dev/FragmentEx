@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMI Cal</string>
+    <string name="height">HEIGHT</string>
+    <string name="weight">WEIGHT</string>
+    <string name="kilo">KILOGRAM</string>
+    <string name="feet">FEET</string>
+    <string name="inc">INCH</string>
+    <string name="cal">CALCULATE</string>
+    <string name="yourbmi">Your BMI is </string>
+    <string name="ur">You are</string>
+    <string name="severe_thinness">SEVERE THINNESS</string>
+    <string name="moderate_thinness">MODERATE THINNESS</string>
+    <string name="mild_thinness">MILD THINNESS</string>
+    <string name="normal">NORMAL</string>
+    <string name="overweight">OVERWEIGHT</string>
+    <string name="obese_class_1">OBESE CLASS 1</string>
+    <string name="obese_class_2">OBESE CLASS 2</string>
+    <string name="obese_class_3">OBESE CLASS 3</string>
+    <string name="error">Check your data</string>
+</resources>
